@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kokoshop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="blok verhnijblok">
+    <div class="centrs galvene">
+      <img src="kokos;logo.jpg" class="logo" alt="logo">
+
+      <nav>
+        <ul class="menu">
+          <li><a href="index.html" class="aktivs">Home</a></li>
+          <li><a href="store.html">Shop</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="centrs">
+
+    <section class="blok zaglavnijfon">
+      <div class="tekstscentrs">
+        <h1>KOKOSHOP</h1>
+        <p>Viss labaki coco apgerbi pie mums!!!</p>
+        <a href="store.html" class="poga">Paradit</a>
+      </div>
+    </section>
+
+    <section class="blok">
+      <h2>Musu produkti</h2>
+      <div class="linija"></div>
+
+      <div class="tovari">
+        <div class="tovar">
+          <div class="kartinka">
+            <img src="2fotoodezdi.png" alt="product">
+          </div>
+          <h3>Product Name</h3>
+          <p class="cena">
+            <span class="stara">€50</span>
+            <span class="nova">€30</span>
+          </p>
+        </div>
+
+        <div class="tovar">
+          <div class="kartinka">
+            <img src="BLuefotokostuma.png" alt="product">
+          </div>
+          <h3>Limit</h3>
+          <p class="cena">
+            <span class="stara">€67</span>
+            <span class="nova">€30</span>
+          </p>
+        </div>
+
+        <div class="tovar">
+          <div class="kartinka">
+            <img src="3fotoodezda.png" alt="product">
+          </div>
+          <h3>Product Name</h3>
+          <p class="cena">
+            <span class="stara">€15</span>
+            <span class="nova">€11</span>
+          </p>
+        </div>
+
+        <div class="tovar">
+          <div class="kartinka">
+            <img src="4fotoodezdi.png" alt="product">
+          </div>
+          <h3>Product Name</h3>
+          <p class="cena">
+            <span class="stara">€15</span>
+            <span class="nova">€12</span>
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="blok">
+      <h2>Viss labaki piedavajumi</h2>
+      <div class="linija"></div>
+
+      <div class="tovari">
+        <div class="tovar">
+          <div class="kartinka">
+            <img src="5fotoodezdi.png" alt="product">
+          </div>
+          <h3>Product Name</h3>
+          <p class="cena">
+            <span class="nova">€15</span>
+          </p>
+        </div>
+
+        <div class="tovar">
+          <div class="kartinka">
+            <img src="6fotoodzedi.png" alt="product">
+          </div>
+          <h3>Product Name</h3>
+          <p class="cena">
+            <span class="nova">€5.85</span>
+          </p>
+        </div>
+
+        <div class="tovar">
+          <div class="kartinka">
+            <img src="7fotoodezdi.png" alt="product">
+          </div>
+          <h3>Product Name</h3>
+          <p class="cena">
+            <span class="nova">€8.99</span>
+          </p>
+        </div>
+
+        <div class="tovar">
+          <div class="kartinka">
+            <img src="8fotoodezdi.png" alt="product">
+          </div>
+          <h3>Product Name</h3>
+          <p class="cena">
+            <span class="nova">€6.75</span>
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="blok kontakti">
+      <p>blabla-128 address</p>
+      <p>+371-270-68816</p>
+      <p>email@coconut.com</p>
+    </section>
+
+  </main>
+
+  <footer class="blok apakshejaisblok">
+    <div class="footeris">
+      <div>
+        <p>blabla-128, Rīga, Latvija</p>
+        <p>+371-296-05881</p>
+      </div>
+      <div>
+        <p>© Cocoshop</p>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
